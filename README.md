@@ -1,2 +1,2 @@
-# LeetCode_20._Valid_Parentheses
- LeetCode_20._Valid_Parentheses
+#### 題目:
+https://leetcode.com/problems/valid-parentheses/
