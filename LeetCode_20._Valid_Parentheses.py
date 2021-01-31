@@ -5,7 +5,7 @@ class Solution(object):
         :rtype: bool
         """
         dic = {')': '(', ']': '[', '}': '{'}
-        data=[]
+        data = []
 
         for i in s:
             if i in '([{': #判斷正確順序
@@ -16,5 +16,5 @@ class Solution(object):
         return not data
 
 #Example
-s=Solution()
+s = Solution()
 s.isValid("()[]{}")
